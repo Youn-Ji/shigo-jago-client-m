@@ -14,7 +14,7 @@
 
 ### 회원가입 및 로그인
 
-![구동 영상](/readmeAssets/1.signin.gif)
+![구동 영상](/readmeAssets/1.signin .gif)
 
 ### 숙박업체 검색
 
